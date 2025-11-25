@@ -37,7 +37,7 @@ A full-stack web application to manage employee records with features like add, 
 
 ---
 
-## ✨ Features
+## Features
 
 -  Search Employees by name  
 -  Add New Employee with profile image upload  
@@ -50,7 +50,7 @@ A full-stack web application to manage employee records with features like add, 
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 ```
 EMPLOYEE-MANAGEMENT-SYSTEM/
 ├── backend/
