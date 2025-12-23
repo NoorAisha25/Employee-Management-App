@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=header&text=Intizamiyah&fontSize=60&animation=fadeIn" alt="Intizamiyah"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=Intizamiyah&fontSize=60&animation=twinkle" alt="Intizamiyah"/>
 </p>
 <p align="center">
   <a href="https://employee-management-app-five-rho.vercel.app/employee" target="_blank"> Live Demo</a> 
