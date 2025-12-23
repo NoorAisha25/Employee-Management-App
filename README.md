@@ -7,7 +7,7 @@
 <p align="center">
 A full-stack web application to manage employee records with features like add, update, delete, search, and pagination. Built using React, Node.js, Express.js, and MongoDB, this app demonstrates CRUD operations, responsive design, and clean UI interactions.
 </p>
----
+
 ## Functionality of Project
 
 ### Desktop Image
