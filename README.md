@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Intizamiyah&fontSize=60&animation=scaleIn" alt="Intizamiyah"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=header&text=Intizamiyah&fontSize=60&animation=twinkle" alt="Intizamiyah"/>
 </p>
 <p align="center">
-  <a href="https://employee-management-app-five-rho.vercel.app/employee" target="_blank"> Live Demo</a> |
+  <a href="https://employee-management-app-five-rho.vercel.app/employee" target="_blank"> Live Demo</a> 
 </p>
 <p align="center">
 A full-stack web application to manage employee records with features like add, update, delete, search, and pagination. Built using React, Node.js, Express.js, and MongoDB, this app demonstrates CRUD operations, responsive design, and clean UI interactions.
