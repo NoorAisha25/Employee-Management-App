@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Intizamiyah&fontSize=60&animation=fadeIn" alt="Intizamiyah"/>
 </p>
 
+<p align="center">
 A full-stack web application to manage employee records with features like add, update, delete, search, and pagination. Built using **React**, **Node.js**, **Express**, and **MongoDB**, this app demonstrates CRUD operations, responsive design, and clean UI interactions.
 
 ---
@@ -110,3 +111,4 @@ npm start
 -  Deploy full-stack version on Render or Railway
 
 Employee-Management-App
+</p>
