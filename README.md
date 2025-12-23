@@ -8,26 +8,6 @@
 A full-stack web application to manage employee records with features like add, update, delete, search, and pagination. Built using React, Node.js, Express.js, and MongoDB, this app demonstrates CRUD operations, responsive design, and clean UI interactions.
 </p>
 
-## Functionality of Project
-
-### Desktop Image
-<img width="1276" height="650" alt="image" src="https://github.com/user-attachments/assets/77339eb4-4bee-4b9c-9ba1-a6e3178c9119" />
-
-### Search
-<img width="1221" height="447" alt="{E8AB33DC-21E1-4CC4-81CF-59DED49ABEDC}" src="https://github.com/user-attachments/assets/64769d7f-ca64-4ce2-a32b-10710c15751c" />
-
-### Employee Details
-<img width="1275" height="689" alt="{F0298563-E2AA-4AC5-8299-049FAC098B8C}" src="https://github.com/user-attachments/assets/dfe7bd82-e057-4498-a0c2-415ebea53788" />
-
-### Add New Employee Details
-<img width="1282" height="862" alt="{361E2718-C98C-4A19-8F1B-48D6EAF1FBE2}" src="https://github.com/user-attachments/assets/08aaea14-0072-40ae-965b-76d6bfb0607c" />
-
-### Update Employee Details
-<img width="1265" height="895" alt="{EC86E57B-972A-4007-873E-BE100CB975E2}" src="https://github.com/user-attachments/assets/57ca7915-b193-478b-b507-bcea750509d6" />
-
-### Delete Employee Details
-<img width="1317" height="711" alt="image" src="https://github.com/user-attachments/assets/977723fc-7508-4955-925f-ac7015d9548d" />
-
 ---
 
 ## Tech Stack
